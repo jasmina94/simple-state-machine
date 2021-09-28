@@ -8,7 +8,8 @@ const STATES = {
 const ACTIONS = {
     CLICK: 'click',
     PAYMENT_RECEIVED: 'paymentReceived',
-    PAYMENT_FAILED: 'paymentFailed'
+    PAYMENT_FAILED: 'paymentFailed',
+    RETRY: 'retry'
 }
 
 module.exports = {
