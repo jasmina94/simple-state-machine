@@ -6,8 +6,9 @@
   "scripts": {
     "drinking-game": "node drinkingGame/index.js",
     "payment-form": "node paymentForm/machine.js",
+    "traffic-light": "node trafficLight/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jasmina Eminovski",
   "license": "ISC"
 }
